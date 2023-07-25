@@ -1,9 +1,10 @@
 import { useEffect } from "react";
 import { useSelector } from "react-redux";
-import { addUser, fetchUsers } from "../store";
-import { useThunk } from '../thunks/use-thunk';
+import { addUser, fetchUsers, removeUser } from "../store";
+import { useThunk } from '../hooks/use-thunk';
 import Button from './Button';
 import Skeleton from './Skeleton';
+import UsersListItem from "./UsersListItem";
 
 function UsersList() {
 
@@ -34,13 +35,15 @@ function UsersList() {
             </div>
         );
     } else {
-        content = data.map((users) => {
+        content = data.map((user) => {
             return (
-                <div key={users.id} className="mb-2 border rounded">
-                    <div className="flex p-2 justify-between items-center cursor-pointer">
-                        {users.name}
-                    </div>
-                </div>
+
+                <UsersListItem key={user.id} user={user} />
+                // <div key={user.id} className="mb-2 border rounded">
+                //     <div className="flex p-2 justify-between items-center cursor-pointer">
+                //         {user.name}
+                //     </div>
+                // </div>
 
             );
         });

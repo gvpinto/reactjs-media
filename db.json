@@ -5,22 +5,6 @@
       "name": "Myra"
     },
     {
-      "name": "Owen Kub",
-      "id": 2
-    },
-    {
-      "name": "Lewis Bauch V",
-      "id": 3
-    },
-    {
-      "name": "Edward Gulgowski Sr.",
-      "id": 4
-    },
-    {
-      "name": "Enrique Rolfson DVM",
-      "id": 5
-    },
-    {
       "name": "Lana Satterfield DDS",
       "id": 6
     },
@@ -29,44 +13,8 @@
       "id": 7
     },
     {
-      "name": "Norman Gerhold",
-      "id": 8
-    },
-    {
-      "name": "Maggie Mosciski-Vandervort",
-      "id": 9
-    },
-    {
-      "name": "Sherman Sawayn",
-      "id": 10
-    },
-    {
-      "name": "Maureen Hermiston",
-      "id": 11
-    },
-    {
-      "name": "Mr. Perry Schaefer",
-      "id": 12
-    },
-    {
-      "name": "Dr. Milton McCullough",
-      "id": 13
-    },
-    {
-      "name": "Lorenzo Becker",
-      "id": 14
-    },
-    {
       "name": "Wilson Hintz I",
       "id": 15
-    },
-    {
-      "name": "Bobbie Langosh",
-      "id": 16
-    },
-    {
-      "name": "Barbara Kshlerin",
-      "id": 17
     },
     {
       "name": "Moses Hane I",
@@ -75,6 +23,18 @@
     {
       "name": "Otis Schaefer",
       "id": 19
+    },
+    {
+      "name": "Danny Franecki",
+      "id": 20
+    },
+    {
+      "name": "Amelia Hegmann",
+      "id": 21
+    },
+    {
+      "name": "Pablo Heller",
+      "id": 22
     }
   ],
   "ablums": [],
