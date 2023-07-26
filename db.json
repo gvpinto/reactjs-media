@@ -37,6 +37,12 @@
       "id": 22
     }
   ],
-  "ablums": [],
+  "albums": [
+    {
+        "id": 10,
+        "title": "The First Hikers",
+        "userId": 1
+    }
+  ],
   "photos": []
 }
