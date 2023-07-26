@@ -39,9 +39,64 @@
   ],
   "albums": [
     {
-        "id": 10,
-        "title": "The First Hikers",
-        "userId": 1
+      "id": 10,
+      "title": "The First Hikers",
+      "userId": 1
+    },
+    {
+      "title": "Practical Granite Chicken",
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "title": "Fantastic Concrete Tuna",
+      "userId": 1,
+      "id": 12
+    },
+    {
+      "title": "Modern Rubber Soap",
+      "userId": 1,
+      "id": 13
+    },
+    {
+      "title": "Unbranded Steel Ball",
+      "userId": 1,
+      "id": 14
+    },
+    {
+      "title": "Ergonomic Steel Tuna",
+      "userId": 1,
+      "id": 15
+    },
+    {
+      "title": "Modern Bronze Hat",
+      "userId": 6,
+      "id": 16
+    },
+    {
+      "title": "Luxurious Plastic Chips",
+      "userId": 1,
+      "id": 17
+    },
+    {
+      "title": "Elegant Steel Shoes",
+      "userId": 6,
+      "id": 18
+    },
+    {
+      "title": "Generic Plastic Mouse",
+      "userId": 1,
+      "id": 19
+    },
+    {
+      "title": "Oriental Soft Mouse",
+      "userId": 7,
+      "id": 20
+    },
+    {
+      "title": "Electronic Steel Bacon",
+      "userId": 1,
+      "id": 21
     }
   ],
   "photos": []
