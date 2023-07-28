@@ -5,28 +5,8 @@
       "name": "Myra"
     },
     {
-      "name": "Lana Satterfield DDS",
-      "id": 6
-    },
-    {
       "name": "John Corwin",
       "id": 7
-    },
-    {
-      "name": "Wilson Hintz I",
-      "id": 15
-    },
-    {
-      "name": "Moses Hane I",
-      "id": 18
-    },
-    {
-      "name": "Otis Schaefer",
-      "id": 19
-    },
-    {
-      "name": "Danny Franecki",
-      "id": 20
     },
     {
       "name": "Amelia Hegmann",
@@ -42,41 +22,6 @@
     }
   ],
   "albums": [
-    {
-      "title": "Elegant Steel Shoes",
-      "userId": 6,
-      "id": 18
-    },
-    {
-      "title": "Oriental Soft Mouse",
-      "userId": 7,
-      "id": 20
-    },
-    {
-      "title": "Recycled Granite Ball",
-      "userId": 1,
-      "id": 22
-    },
-    {
-      "title": "Small Fresh Chicken",
-      "userId": 7,
-      "id": 24
-    },
-    {
-      "title": "Practical Soft Car",
-      "userId": 7,
-      "id": 25
-    },
-    {
-      "title": "Fantastic Wooden Fish",
-      "userId": 7,
-      "id": 26
-    },
-    {
-      "title": "Bespoke Concrete Bacon",
-      "userId": 7,
-      "id": 27
-    },
     {
       "title": "Incredible Fresh Gloves",
       "userId": 22,
@@ -103,11 +48,6 @@
       "id": 32
     },
     {
-      "title": "Elegant Steel Gloves",
-      "userId": 6,
-      "id": 33
-    },
-    {
       "title": "Awesome Rubber Soap",
       "userId": 7,
       "id": 35
@@ -121,17 +61,28 @@
       "title": "Intelligent Fresh Bike",
       "userId": 1,
       "id": 37
-    },
-    {
-      "title": "Awesome Steel Pants",
-      "userId": 6,
-      "id": 38
-    },
-    {
-      "title": "Fantastic Bronze Tuna",
-      "userId": 6,
-      "id": 39
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 30,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7408470684860416",
+      "id": 3
+    },
+    {
+      "albumId": 30,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5901185380777984",
+      "id": 4
+    },
+    {
+      "albumId": 30,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2014269885382656",
+      "id": 5
+    },
+    {
+      "albumId": 30,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1644860941533184",
+      "id": 6
+    }
+  ]
 }
