@@ -7,7 +7,7 @@ const fetchUsers = createAsyncThunk('users/fetch', async () => {
     const response = await axios.get('http://localhost:3005/users');
 
     // TODO: Delete this Dev Only
-    await pause(2000);
+    await pause(1000);
     // Automaticall assigned to the payload property of the action
     return response.data;
 });
