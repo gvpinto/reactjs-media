@@ -43,19 +43,9 @@
   ],
   "albums": [
     {
-      "title": "Modern Bronze Hat",
-      "userId": 6,
-      "id": 16
-    },
-    {
       "title": "Elegant Steel Shoes",
       "userId": 6,
       "id": 18
-    },
-    {
-      "title": "Generic Plastic Mouse",
-      "userId": 1,
-      "id": 19
     },
     {
       "title": "Oriental Soft Mouse",
@@ -63,19 +53,9 @@
       "id": 20
     },
     {
-      "title": "Electronic Steel Bacon",
-      "userId": 1,
-      "id": 21
-    },
-    {
       "title": "Recycled Granite Ball",
       "userId": 1,
       "id": 22
-    },
-    {
-      "title": "Small Frozen Cheese",
-      "userId": 6,
-      "id": 23
     },
     {
       "title": "Small Fresh Chicken",
@@ -128,11 +108,6 @@
       "id": 33
     },
     {
-      "title": "Bespoke Plastic Bacon",
-      "userId": 6,
-      "id": 34
-    },
-    {
       "title": "Awesome Rubber Soap",
       "userId": 7,
       "id": 35
@@ -146,6 +121,16 @@
       "title": "Intelligent Fresh Bike",
       "userId": 1,
       "id": 37
+    },
+    {
+      "title": "Awesome Steel Pants",
+      "userId": 6,
+      "id": 38
+    },
+    {
+      "title": "Fantastic Bronze Tuna",
+      "userId": 6,
+      "id": 39
     }
   ],
   "photos": []
